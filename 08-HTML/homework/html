@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   
+    <title> Tarea html de Sherson </title>
+    <link rel="stylesheet" href="./style.css">
+
+
+</head>
+    
+    <body>
+
+        <div class=" divClass">
+ <h1> Sherson </h1>
+ <h3> Henry</h3>
+ <h4>Tarea de Html/Css </h4>
+</div>
+        <div class="divClass">
+            <span id="spanId"> Mi comida favorita es el Asado </span>
+            <a href="https://www.facebook.com"> Link a mi rastaurante favorito 
+            </a>
+        </div>
+       
+        <div id="thirdDiv">
+            <ul> Lista negra
+                <li> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/OdacirAr_128.JPG"/>
+                
+                </li>
+                <li> <img src= "http://www.guiacolonia.com.uy/cache/com_zoo/images/1-nueva-palmira_6dd19c1089b63e44b67771cc53a8977b.jpg"/>
+               
+                </li>
+            </ul>
+        </div>
+
+       
+
+    </body>
+ 
+
+
+</head>
+ 
+
+
+</html>
